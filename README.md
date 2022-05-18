@@ -1,4 +1,4 @@
-Hi!, I’m @JJSnakey
+Hi!, My name is Joshua Greer @JJSnakey
 
 I study software development at Arizona State University!
 
