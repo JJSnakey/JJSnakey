@@ -5,16 +5,16 @@ I study software development at Arizona State University!
 My passion is to work with groups of people and accomplish their goals. 
 Any project that involves collaboration is what I'm interested in.
 
-In school I have began working with and creating projects with javaScript,
-I am also currently working through The Odin Project to learn how to 
-properly use and manage HTML, CSS, and gitHub.
+I have experience working with java, javaScript, Python, and C from the 
+ASU Software Engineering program and Harvard CS50. I am currently
+beginning my second semester at University for computer science, 
+and I'm looking forward to expanding my portfolio.
 
-My goal is to find an intership as well! I believe I learn better on the 
-job but I am ready to study and create privately until I have the skills
-necessary to be hireable. My current work experience involves 5 years in
-team building and leadership roles, I like working with others!
+Outside of comp sci, my work experience includes 5 years in team building
+and leadership roles. I enjoy teaching and working alongside many unique
+and talented people.
 
 
-If you have any inquiries, email me at QwertoBerto85@gmail.com ! 
+If you have any inquiries, email me at jjgreer@asu.edu ! 
 
-I look forward to working with or for you :)
+I look forward to working with you :)
